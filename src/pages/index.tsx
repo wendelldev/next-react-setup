@@ -13,8 +13,8 @@ const Home: React.FC = () => {
       </Head>
 
       <Logo />
-      <h1>ReactJS Structure!</h1>
-      <p>A ReactJS + Next.js structure made by Wendell Lucena.</p>
+      <h1>ReactJS + Next.js Structure with Typescript, ESLint and Styled Components</h1>
+      <p>A ReactJS + Next.js structure made by Diego Fernandes (Rocketseat) and customized by Wendell Lucena.</p>
     </Container>
   )
 }

@@ -13,6 +13,7 @@ export const Container = styled.div`
         font-size: 54px;
         color: ${props => props.theme.colors.primary};
         margin-top: 40px;
+        text-align: center
     }
 
     p {
